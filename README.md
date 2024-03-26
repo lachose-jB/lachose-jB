@@ -1,4 +1,4 @@
-👋 Hi, I’m Jean-Baptiste ADJAHOUISSO, a Web Penetration Tester.
+👋 Hi, I’m Jean-Baptiste ADJAHOUISSO, a Penetration Tester.
 
 👀 I’m interested in web application security, ethical hacking, and cybersecurity.
 
