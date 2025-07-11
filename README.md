@@ -10,7 +10,7 @@
    - GitHub: [@lachose-jB](https://github.com/lachose-jB)
    - LinkedIn: [jean-baptiste](https://www.linkedin.com/in/jean-baptiste-81a6041b7/)
    - Email: jadjahouisso@gmail.com
-   - Cv WEb: [jean-baptiste](https://web-sec.fr/cv_web/)
+   - Cv WEb: [jean-baptiste](https://web-sec.fr)
 
 
 <!---
