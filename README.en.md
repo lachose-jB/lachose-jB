@@ -38,7 +38,7 @@ Penetration tester and security-minded developer, based in **Paris**. I test web
 
 ---
 
-### `> projects --featured`
+### `> projects --cybersecurity`
 
 <table>
 <tr>
@@ -46,14 +46,14 @@ Penetration tester and security-minded developer, based in **Paris**. I test web
 
 **🛰️ [AdAutoRecon](https://github.com/lachose-jB/AdAutoRecon)**
 `Python` · `Active Directory` · `recon`
-Automated Active Directory reconnaissance for pentest engagements: enumeration, mapping, lead collection.
+Automated **Active Directory** reconnaissance — enumeration, mapping and lead collection for pentest engagements.
 
 </td>
 <td width="50%" valign="top">
 
 **🚨 [IDS_Bot](https://github.com/lachose-jB/IDS_Bot)**
 `Python` · `detection` · `blue-team`
-Intrusion detection bot: event monitoring and real-time alerting.
+**Intrusion detection** — event monitoring and real-time alerting.
 
 </td>
 </tr>
@@ -62,36 +62,38 @@ Intrusion detection bot: event monitoring and real-time alerting.
 
 **🔐 [azetoHash](https://github.com/lachose-jB/azetoHash)**
 `Python` · `cryptography`
-Password hashing algorithm combining several techniques to strengthen robustness.
+**Password hashing** combining several techniques to strengthen robustness.
 
 </td>
 <td width="50%" valign="top">
 
-**📜 [trueDoc](https://github.com/lachose-jB/trueDoc)**
-`TypeScript` · `React` · `Django` · `GraphQL`
-**TRUSTDOC** SaaS for diploma verification and authentication, designed to fight fraud.
+**🕸️ [andaWeb_scritp](https://github.com/lachose-jB/andaWeb_scritp)**
+`Python` · `recon` · `OSINT`
+**Website cloning / fingerprinting** for offensive analysis and test preparation.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**🕸️ [andaWeb_scritp](https://github.com/lachose-jB/andaWeb_scritp)**
-`Python` · `recon` · `OSINT`
-Website cloning and fingerprinting for offensive analysis and test preparation.
+**🧪 [pentest](https://github.com/lachose-jB/pentest)**
+`TypeScript` · `offensive`
+Toolkit and resources for my **web penetration tests**.
 
 </td>
 <td width="50%" valign="top">
 
-**📇 [Mewi_CRM](https://github.com/lachose-jB/Mewi_CRM)**
-`TypeScript` · `full-stack`
-Full CRM: client management, follow-ups and reminders — shipped end to end.
+**🛡️ [ApiSec](https://github.com/lachose-jB/ApiSec)**
+`JavaScript` · `AppSec`
+**API security** — exposure testing and checks.
 
 </td>
 </tr>
 </table>
 
-<p align="center"><sub>🔎 Also: <a href="https://github.com/lachose-jB/pentest">pentest</a> · <a href="https://github.com/lachose-jB/ApiSec">ApiSec</a> · <a href="https://github.com/lachose-jB/Nex-Champs">Nex-Champs (United Hacks V6)</a> · <a href="https://github.com/lachose-jB/lynis">lynis (fork)</a> · <a href="https://github.com/lachose-jB?tab=repositories">all repositories →</a></sub></p>
+<p align="center"><sub>🧰 Tools &amp; CTF: <a href="https://github.com/lachose-jB/lynis">lynis — Linux/Unix hardening audit (fork)</a> · <a href="https://github.com/lachose-jB/Nex-Champs">Nex-Champs — United Hacks V6</a> · <a href="https://github.com/lachose-jB?tab=repositories">all repositories →</a></sub></p>
+
+<p align="center"><sub>💼 Full-stack &amp; products: <a href="https://github.com/lachose-jB/trueDoc">trueDoc / TRUSTDOC</a> (anti-fraud diploma verification) · <a href="https://github.com/lachose-jB/Mewi_CRM">Mewi_CRM</a></sub></p>
 
 ---
 
