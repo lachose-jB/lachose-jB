@@ -2,7 +2,7 @@
 <!-- Déposer ce fichier + le dossier assets/ à la racine du dépôt lachose-jB/lachose-jB -->
 
 <p align="center">
-  <img src="header.svg" alt="Jean-Baptiste ADJAHOUISSO, Penetration Tester / Security Engineer" width="100%"/>
+  <img src="header.svg?v=2" alt="Jean-Baptiste ADJAHOUISSO, Penetration Tester / Security Engineer" width="100%"/>
 </p>
 
 <p align="center">

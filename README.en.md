@@ -2,7 +2,7 @@
 <!-- Place this file + assets/ at the root of the lachose-jB/lachose-jB repository -->
 
 <p align="center">
-  <img src="header-en.svg" alt="Jean-Baptiste ADJAHOUISSO, Penetration Tester / Security Engineer" width="100%"/>
+  <img src="header-en.svg?v=2" alt="Jean-Baptiste ADJAHOUISSO, Penetration Tester / Security Engineer" width="100%"/>
 </p>
 
 <p align="center">
