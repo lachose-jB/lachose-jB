@@ -2,7 +2,7 @@
 <!-- Déposer ce fichier + le dossier assets/ à la racine du dépôt lachose-jB/lachose-jB -->
 
 <p align="center">
-  <img src="header.svg" alt="Jean-Baptiste ADJAHOUISSO — Penetration Tester / Security Engineer" width="100%"/>
+  <img src="header.svg" alt="Jean-Baptiste ADJAHOUISSO, Penetration Tester / Security Engineer" width="100%"/>
 </p>
 
 <p align="center">
@@ -29,12 +29,12 @@
 
 ### `> whoami`
 
-Pentester et développeur orienté sécurité, basé à **Paris**. Je teste des applications web, je durcis des infrastructures et je livre des produits de bout en bout — du code à la mise en production. Je mesure avant d'affirmer : chaque vulnérabilité trouvée vient avec sa preuve, son impact et son correctif documenté.
+Pentester et développeur orienté sécurité, basé à **Paris**. Je teste des applications web, je durcis des infrastructures et je livre des produits de bout en bout, du code à la mise en production. Je mesure avant d'affirmer : chaque vulnérabilité trouvée vient avec sa preuve, son impact et son correctif documenté.
 
-- 🛡️ **Sécurité offensive** — pentest web, recon Active Directory, bug bounty, OSINT.
-- 🔧 **Défense & durcissement** — détection d'intrusion, audit système (Lynis), CSP strictes, anti-inspection.
-- 🚀 **Full-stack & déploiement** — TypeScript/React, Vue, Python, PHP, Supabase, Docker, Nginx.
-- 📍 **Disponible** pour missions et postes (CDI / alternance) — sécurité ou développement web.
+- 🛡️ **Sécurité offensive**, pentest web, recon Active Directory, bug bounty, OSINT.
+- 🔧 **Défense & durcissement**, détection d'intrusion, audit système (Lynis), CSP strictes, anti-inspection.
+- 🚀 **Full-stack & déploiement**, TypeScript/React, Vue, Python, PHP, Supabase, Docker, Nginx.
+- 📍 **Disponible** pour missions et postes (CDI / alternance), sécurité ou développement web.
 
 ---
 
@@ -46,14 +46,14 @@ Pentester et développeur orienté sécurité, basé à **Paris**. Je teste des 
 
 **🛰️ [AdAutoRecon](https://github.com/lachose-jB/AdAutoRecon)**
 `Python` · `Active Directory` · `recon`
-Reconnaissance **Active Directory** automatisée — énumération, cartographie et collecte d'indices pour les missions de pentest.
+Reconnaissance **Active Directory** automatisée, énumération, cartographie et collecte d'indices pour les missions de pentest.
 
 </td>
 <td width="50%" valign="top">
 
 **🚨 [IDS_Bot](https://github.com/lachose-jB/IDS_Bot)**
 `Python` · `détection` · `blue-team`
-**Détection d'intrusion** — surveillance d'événements et alertes en temps réel.
+**Détection d'intrusion**, surveillance d'événements et alertes en temps réel.
 
 </td>
 </tr>
@@ -85,13 +85,13 @@ Boîte à outils et ressources pour mes **tests d'intrusion web**.
 
 **🛡️ [ApiSec](https://github.com/lachose-jB/ApiSec)**
 `JavaScript` · `AppSec`
-**Sécurité des API** — tests et contrôles d'exposition.
+**Sécurité des API**, tests et contrôles d'exposition.
 
 </td>
 </tr>
 </table>
 
-<p align="center"><sub>🧰 Outils &amp; CTF : <a href="https://github.com/lachose-jB/lynis">lynis — audit de durcissement Linux/Unix (fork)</a> · <a href="https://github.com/lachose-jB/Nex-Champs">Nex-Champs — United Hacks V6</a> · <a href="https://github.com/lachose-jB?tab=repositories">tous les dépôts →</a></sub></p>
+<p align="center"><sub>🧰 Outils &amp; CTF : <a href="https://github.com/lachose-jB/lynis">lynis, audit de durcissement Linux/Unix (fork)</a> · <a href="https://github.com/lachose-jB/Nex-Champs">Nex-Champs, United Hacks V6</a> · <a href="https://github.com/lachose-jB?tab=repositories">tous les dépôts →</a></sub></p>
 
 <p align="center"><sub>💼 Full-stack &amp; produits : <a href="https://github.com/lachose-jB/trueDoc">trueDoc / TRUSTDOC</a> (vérification de diplômes anti-fraude) · <a href="https://github.com/lachose-jB/Mewi_CRM">Mewi_CRM</a></sub></p>
 
@@ -139,5 +139,5 @@ Boîte à outils et ressources pour mes **tests d'intrusion web**.
 ---
 
 <p align="center">
-  <sub><code>LA CHOSE N'EST UTILE QU'AUX CHOSES QUE L'ON FAIT DE LA CHOSE</code> — <a href="https://web-sec.fr/">web-sec.fr</a></sub>
+  <sub><code>LA CHOSE N'EST UTILE QU'AUX CHOSES QUE L'ON FAIT DE LA CHOSE</code>, <a href="https://web-sec.fr/">web-sec.fr</a></sub>
 </p>

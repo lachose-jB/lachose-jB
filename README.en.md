@@ -1,8 +1,8 @@
-<!-- GitHub profile of Jean-Baptiste ADJAHOUISSO (lachose-jB) — English -->
+<!-- GitHub profile of Jean-Baptiste ADJAHOUISSO (lachose-jB), English -->
 <!-- Place this file + assets/ at the root of the lachose-jB/lachose-jB repository -->
 
 <p align="center">
-  <img src="header-en.svg" alt="Jean-Baptiste ADJAHOUISSO — Penetration Tester / Security Engineer" width="100%"/>
+  <img src="header-en.svg" alt="Jean-Baptiste ADJAHOUISSO, Penetration Tester / Security Engineer" width="100%"/>
 </p>
 
 <p align="center">
@@ -29,12 +29,12 @@
 
 ### `> whoami`
 
-Penetration tester and security-minded developer, based in **Paris**. I test web applications, harden infrastructures and ship products end to end — from code to production. I measure before I claim: every vulnerability I find comes with its proof, its impact and a documented fix.
+Penetration tester and security-minded developer, based in **Paris**. I test web applications, harden infrastructures and ship products end to end, from code to production. I measure before I claim: every vulnerability I find comes with its proof, its impact and a documented fix.
 
-- 🛡️ **Offensive security** — web pentest, Active Directory recon, bug bounty, OSINT.
-- 🔧 **Defense & hardening** — intrusion detection, system auditing (Lynis), strict CSP, anti-inspection.
-- 🚀 **Full-stack & deployment** — TypeScript/React, Vue, Python, PHP, Supabase, Docker, Nginx.
-- 📍 **Open to** contracts and roles (full-time / apprenticeship) — security or web development.
+- 🛡️ **Offensive security**, web pentest, Active Directory recon, bug bounty, OSINT.
+- 🔧 **Defense & hardening**, intrusion detection, system auditing (Lynis), strict CSP, anti-inspection.
+- 🚀 **Full-stack & deployment**, TypeScript/React, Vue, Python, PHP, Supabase, Docker, Nginx.
+- 📍 **Open to** contracts and roles (full-time / apprenticeship), security or web development.
 
 ---
 
@@ -46,14 +46,14 @@ Penetration tester and security-minded developer, based in **Paris**. I test web
 
 **🛰️ [AdAutoRecon](https://github.com/lachose-jB/AdAutoRecon)**
 `Python` · `Active Directory` · `recon`
-Automated **Active Directory** reconnaissance — enumeration, mapping and lead collection for pentest engagements.
+Automated **Active Directory** reconnaissance, enumeration, mapping and lead collection for pentest engagements.
 
 </td>
 <td width="50%" valign="top">
 
 **🚨 [IDS_Bot](https://github.com/lachose-jB/IDS_Bot)**
 `Python` · `detection` · `blue-team`
-**Intrusion detection** — event monitoring and real-time alerting.
+**Intrusion detection**, event monitoring and real-time alerting.
 
 </td>
 </tr>
@@ -85,13 +85,13 @@ Toolkit and resources for my **web penetration tests**.
 
 **🛡️ [ApiSec](https://github.com/lachose-jB/ApiSec)**
 `JavaScript` · `AppSec`
-**API security** — exposure testing and checks.
+**API security**, exposure testing and checks.
 
 </td>
 </tr>
 </table>
 
-<p align="center"><sub>🧰 Tools &amp; CTF: <a href="https://github.com/lachose-jB/lynis">lynis — Linux/Unix hardening audit (fork)</a> · <a href="https://github.com/lachose-jB/Nex-Champs">Nex-Champs — United Hacks V6</a> · <a href="https://github.com/lachose-jB?tab=repositories">all repositories →</a></sub></p>
+<p align="center"><sub>🧰 Tools &amp; CTF: <a href="https://github.com/lachose-jB/lynis">lynis, Linux/Unix hardening audit (fork)</a> · <a href="https://github.com/lachose-jB/Nex-Champs">Nex-Champs, United Hacks V6</a> · <a href="https://github.com/lachose-jB?tab=repositories">all repositories →</a></sub></p>
 
 <p align="center"><sub>💼 Full-stack &amp; products: <a href="https://github.com/lachose-jB/trueDoc">trueDoc / TRUSTDOC</a> (anti-fraud diploma verification) · <a href="https://github.com/lachose-jB/Mewi_CRM">Mewi_CRM</a></sub></p>
 
@@ -139,5 +139,5 @@ Toolkit and resources for my **web penetration tests**.
 ---
 
 <p align="center">
-  <sub><code>A THING IS ONLY USEFUL FOR WHAT YOU MAKE OF IT</code> — <a href="https://web-sec.fr/">web-sec.fr</a></sub>
+  <sub><code>A THING IS ONLY USEFUL FOR WHAT YOU MAKE OF IT</code>, <a href="https://web-sec.fr/">web-sec.fr</a></sub>
 </p>
