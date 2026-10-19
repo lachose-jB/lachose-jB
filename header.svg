@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="250" viewBox="0 0 880 250" fill="none" role="img" aria-label="Jean-Baptiste ADJAHOUISSO — Penetration Tester / Security Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#0a0e14"/>
+    </linearGradient>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3fb950" stop-opacity="0"/>
+      <stop offset="1" stop-color="#3fb950" stop-opacity="0.55"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#3fb950" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#3fb950" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="card"><rect x="1" y="1" width="878" height="248" rx="14"/></clipPath>
+  </defs>
+
+  <!-- carte -->
+  <rect x="1" y="1" width="878" height="248" rx="14" fill="url(#bg)" stroke="#1f2630" stroke-width="1.5"/>
+
+  <g clip-path="url(#card)">
+    <!-- grille discrete -->
+    <g stroke="#131a22" stroke-width="1">
+      <path d="M0 50 H880 M0 100 H880 M0 150 H880 M0 200 H880"/>
+      <path d="M110 0 V250 M220 0 V250 M330 0 V250 M440 0 V250 M550 0 V250 M660 0 V250 M770 0 V250"/>
+    </g>
+    <!-- ligne de scan -->
+    <rect x="0" y="0" width="880" height="2" fill="#3fb950" opacity="0.10">
+      <animate attributeName="y" values="0;250;0" dur="6s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- ===== RADAR (droite) ===== -->
+    <g transform="translate(715,125)">
+      <circle r="92" fill="url(#glow)"/>
+      <g stroke="#213243" stroke-width="1.2" fill="none">
+        <circle r="30"/><circle r="55"/><circle r="80"/>
+        <path d="M-80 0 H80 M0 -80 V80"/>
+        <path d="M-57 -57 L57 57 M-57 57 L57 -57" stroke="#182530"/>
+      </g>
+      <!-- balayage -->
+      <g>
+        <path d="M0 0 L80 0 A80 80 0 0 1 56.6 56.6 Z" fill="url(#sweep)"/>
+        <line x1="0" y1="0" x2="80" y2="0" stroke="#3fb950" stroke-width="2"/>
+        <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="3.6s" repeatCount="indefinite"/>
+      </g>
+      <!-- blips -->
+      <circle cx="38" cy="-20" r="3.5" fill="#3fb950">
+        <animate attributeName="opacity" values="0;1;0" dur="3.6s" begin="0.4s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="-30" cy="40" r="3" fill="#58a6ff">
+        <animate attributeName="opacity" values="0;1;0" dur="3.6s" begin="1.6s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="-52" cy="-28" r="3" fill="#3fb950">
+        <animate attributeName="opacity" values="0;1;0" dur="3.6s" begin="2.7s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="4" fill="#3fb950"/>
+    </g>
+
+    <!-- ===== TEXTE (gauche) ===== -->
+    <g font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace">
+      <text x="42" y="58" fill="#3fb950" font-size="14" letter-spacing="3" font-weight="700">PENETRATION TESTER
+        <tspan fill="#2d3b48"> · </tspan><tspan fill="#58a6ff">SECURITY ENGINEER</tspan></text>
+
+      <text x="40" y="108" fill="#e6edf3" font-size="40" font-weight="800" letter-spacing="1">JEAN-BAPTISTE</text>
+      <text x="40" y="150" fill="#e6edf3" font-size="40" font-weight="800" letter-spacing="1">ADJAHOUISSO<tspan fill="#3fb950" dx="4">_<animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite"/></tspan></text>
+
+      <text x="42" y="186" fill="#8b949e" font-size="14.5" letter-spacing="0.3">Sécurité web · pentest · durcissement — je casse, puis je documente le correctif.</text>
+
+      <!-- pastille statut -->
+      <g transform="translate(42,205)">
+        <rect x="0" y="0" width="300" height="30" rx="15" fill="#0f1b12" stroke="#2ea04326" stroke-width="1"/>
+        <circle cx="18" cy="15" r="5" fill="#3fb950">
+          <animate attributeName="opacity" values="1;0.25;1" dur="1.8s" repeatCount="indefinite"/>
+        </circle>
+        <text x="33" y="20" fill="#3fb950" font-size="12.5" letter-spacing="1.5" font-weight="700">DISPONIBLE · PARIS, FRANCE · WEB-SEC.FR</text>
+      </g>
+    </g>
+  </g>
+</svg>
